@@ -91,11 +91,13 @@ A API está acessível em `http://127.0.0.1:8000/api/v1/`.
 | **GET** | `/sales/<uuid:pk>/` | Retorna uma venda específica. |
 
 ---
-
-## AUTOR:  JUAN ALMEIDA
-
 ## Executando os testes
 
 Para rodar os testes unitários do projeto, execute o seguinte comando:
 ```bash
 python manage.py test
+
+---
+
+## AUTOR:  JUAN ALMEIDA
+
